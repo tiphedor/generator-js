@@ -7,6 +7,10 @@ A boilerpate JS project structure, with babel-powered ES8 transpiling, eslint (w
 
 ## Usage
 
+    yarn add global generator-js-tiphedor 
+    # or
+    npm i -g generator-js-tiphedor
+
     yo js-tiphedor
 
 ## Project usage
